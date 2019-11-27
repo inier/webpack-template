@@ -1,3 +1,5 @@
+项目仓库已迁移到：https://github.com/webpack-template ，此仓库停止更新！
+
 # webpack-template
 
 > 为懒人准备的 webpack 模版，可以直接用于生产。这里单纯只做webpack构建、打包、代码的组织等，关于React、Vue等配置并不复杂，可以在需要时添加。随着webpack版本的迭代，会将最新的特性加入，持续更新......
